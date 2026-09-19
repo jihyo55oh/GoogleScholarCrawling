@@ -1,0 +1,12 @@
+# Generated crawler results
+output/
+
+# Local Python artifacts
+.venv/
+__pycache__/
+*.py[cod]
+
+# macOS metadata
+.DS_Store
+Icon
+Icon*
